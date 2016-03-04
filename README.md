@@ -2,4 +2,4 @@
 * [Hadoop | Udacity] (https://www.udacity.com/course/intro-to-hadoop-and-mapreduce--ud617)
 * [Algorithms | NPTEL] (http://nptel.ac.in/courses/106102064/)
 * [Object-Oriented Javascript | Udacity] (https://www.udacity.com/course/viewer#!/c-ud015)
-* [Design Patterns Java | TutorialsPoint] (www.tutorialspoint.com/design_pattern/)
+* [Design Patterns Java | TutorialsPoint] (http://www.tutorialspoint.com/design_pattern/)
