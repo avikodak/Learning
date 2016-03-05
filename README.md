@@ -3,3 +3,4 @@
 * [Algorithms | NPTEL] (http://nptel.ac.in/courses/106102064/)
 * [Object-Oriented Javascript | Udacity] (https://www.udacity.com/course/viewer#!/c-ud015)
 * [Design Patterns Java | TutorialsPoint] (http://www.tutorialspoint.com/design_pattern/)
+* [Deep Learning | Udacity] (https://www.udacity.com/course/viewer#!/c-ud730)
