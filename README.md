@@ -5,3 +5,4 @@
 * [Design Patterns Java | TutorialsPoint] (http://www.tutorialspoint.com/design_pattern/)
 * [Deep Learning | Udacity] (https://www.udacity.com/course/viewer#!/c-ud730)
 * [Drools Rule Engine | TutorialsPoint] (http://www.tutorialspoint.com/drools/)
+* [Design Patterns | PDF] (http://www.sws.bfh.ch/~amrhein/ADP/HeadFirstDesignPatterns.pdf)
