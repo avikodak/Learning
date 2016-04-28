@@ -1,2 +1,17 @@
 OpenId - Authentication
 Oauth - Authorization
+
+What is SSL
+Symmetric Keys
+Asymmetric Keys
+Transitive trust
+CA
+CSR - 
+Self Signed Certificate
+SSL uses private and public key for identificaion and key exchange
+Transitive trust to verify the identification
+Session symmetric key for encryption - Destroyed after session but can be cached
+
+https://www.ietf.org/rfc/rfc2246.txt
+
+https://www.ietf.org/rfc/rfc4346.txt
