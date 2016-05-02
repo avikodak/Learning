@@ -16,7 +16,13 @@ https://www.ietf.org/rfc/rfc2246.txt
 
 https://www.ietf.org/rfc/rfc4346.txt
 
+HMAC SHA1 MD5 SHA2 PBKDF2 BCRYPT SCRYPT
+
 Password Hashing Pointers
 -------------------------
-https://crackstation.net/hashing-security.htm
+https://www.owasp.org/index.php/Password_Storage_Cheat_Sheet
+https://www.owasp.org/index.php/Hashing_Java
+https://crackstation.net/hashing-security.htm - Important Link
 http://stackoverflow.com/questions/2860943/how-can-i-hash-a-password-in-java
+
+https://github.com/whispersystems/libsignal-protocol-java/ - Encryption
