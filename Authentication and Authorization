@@ -15,3 +15,8 @@ Session symmetric key for encryption - Destroyed after session but can be cached
 https://www.ietf.org/rfc/rfc2246.txt
 
 https://www.ietf.org/rfc/rfc4346.txt
+
+Password Hashing Pointers
+-------------------------
+https://crackstation.net/hashing-security.htm
+http://stackoverflow.com/questions/2860943/how-can-i-hash-a-password-in-java
