@@ -1,0 +1,5 @@
+* [HTTPStatuses | Info ] (https://httpstatuses.com/)
+* [Designing Rest Apis | REST-JSONApis] (http://www.slideshare.net/stormpath/rest-jsonapis)
+* [ETags | Spring Rest] (http://www.baeldung.com/2013/01/11/etags-for-rest-with-spring/)
+* [ETags | ETag Demo] (http://howtodoinjava.com/resteasy/jax-rs-resteasy-cache-control-with-etag-example/)
+* [Security | Rest API security] (http://www.slideshare.net/stormpath/secure-your-rest-api-the-right-way)
