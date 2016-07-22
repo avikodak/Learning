@@ -6,3 +6,4 @@
 * [Deep Learning | Udacity] (https://www.udacity.com/course/viewer#!/c-ud730)
 * [Drools Rule Engine | TutorialsPoint] (http://www.tutorialspoint.com/drools/)
 * [Design Patterns | PDF] (http://www.sws.bfh.ch/~amrhein/ADP/HeadFirstDesignPatterns.pdf)
+* [Design Patterns | Youtube](https://www.youtube.com/playlist?list=PLF206E906175C7E07)
