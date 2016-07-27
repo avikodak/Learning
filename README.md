@@ -7,3 +7,4 @@
 * [Drools Rule Engine | TutorialsPoint] (http://www.tutorialspoint.com/drools/)
 * [Design Patterns | PDF] (http://www.sws.bfh.ch/~amrhein/ADP/HeadFirstDesignPatterns.pdf)
 * [Design Patterns | Youtube](https://www.youtube.com/playlist?list=PLF206E906175C7E07)
+* [Dynamo DB | Youtube](https://www.youtube.com/watch?v=Kutr0snaRzU)
